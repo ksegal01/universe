@@ -1,3 +1,4 @@
 Mars has a 687 day year.
 Mars is dusty.
-Mars is red.
+Mars is blue!
+Mars dust is blue.
