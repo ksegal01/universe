@@ -1,5 +1,6 @@
 Mars has a 687 day year.
-Mars is dusty.
+Mars is gaseous.
+Mars has dinosaurs.
 Mars is red.
 Mars has polar ice caps
-Mars is a little more than half the size of earth
+Mars is double the size of Earth.
